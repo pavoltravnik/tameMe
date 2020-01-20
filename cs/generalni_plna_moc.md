@@ -20,6 +20,8 @@ Bydliště:
 
 ***aby mě v plném rozsahu a bez jakéhokoli omezení zastupoval/a a činil/a za mě mým jménem všechna právní jednání kromě těch, která ze zákona vyžadují zvláštní plnou moc.***
 
+Tato plná moc je udělena na dobu neurčitou.
+
 V ____________ dne ___________ .
 
 (zmocnitel)
