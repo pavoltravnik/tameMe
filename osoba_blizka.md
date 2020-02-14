@@ -51,6 +51,8 @@ V ____________, dňa ____________ .
 
 
 
+Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
+
 
 Vypracoval:
 
