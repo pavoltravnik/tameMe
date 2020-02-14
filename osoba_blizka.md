@@ -20,7 +20,7 @@ Dátum narodenia: ___________________
 
 **týmto čestne vyhlasujeme**,
 
-že od ___________________ (datum)
+že od ___________________ (dátum)
 
 zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
 pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č.
