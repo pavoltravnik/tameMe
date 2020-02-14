@@ -2,25 +2,25 @@
 
 [HTML]() | [PDF]() | [WORD]()
 
-Meno a priezvisko:
+Meno a priezvisko: ___________________
 
-Bydlisko:
+Bydlisko: ___________________
 
-Dátum narodenia:
+Dátum narodenia: ___________________
 
 
 a
 
-Meno a priezvisko:
+Meno a priezvisko: ___________________
 
-Bydlisko:
+Bydlisko: ___________________
 
-Dátum narodenia:
+Dátum narodenia: ___________________
 
 
 **týmto čestne vyhlasujeme**,
 
-že od
+že od ___________________ (datum)
 
 zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
 pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č.
@@ -41,13 +41,14 @@ starostlivosti a o zmene a doplnení niektorých zákonov,
 predpisov.
 
 
-V ____________, dňa ____________ .
+V _________________, dňa _________________ .
 
 
-Úradne osvedčený podpis.
 
-
- ________________________________         ________________________________
+| ____________________________________ | ____________________________________ |
+| :------------- | -------------:|
+| Meno a priezvisko | Meno a priezvisko |
+| Úradne osvedčený podpis | Úradne osvedčený podpis |
 
 
 
