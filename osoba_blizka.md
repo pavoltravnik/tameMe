@@ -2,11 +2,12 @@
 
 [HTML]() | [PDF]() | [WORD]()
 
+Meno a priezvisko: <input type="text" id="name" name="name"/>
+
+<input type="text" id="name" name="name"/>
+
 <input type="text" size=100 placeholder="Meno a priezvisko"/>
 
-<input type="text" size=100 placeholder="Bydlisko"/>
-
-<input type="text" size=100 placeholder="Dátum narodenia"/>
 
 a
 
