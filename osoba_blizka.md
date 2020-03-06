@@ -8,7 +8,9 @@ Meno a priezvisko: <input type="text" id="name" name="name"/>
 
 <input type="text" size=100 placeholder="Meno a priezvisko"/>
 
-<input type="text" size="120" />
+<input type="text" size="120" height="30" />
+<input type="text" size="120" height="10" />
+<input type="text" size="120" height="20" />
 
 <input type="text" placeholder="Meno a priezvisko"/>
 
