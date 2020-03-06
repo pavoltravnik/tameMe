@@ -49,8 +49,7 @@ V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" si
 
 
 
-| ____________________________________ | ____________________________________ |
-| :------------- | -------------:|
+| | |
 | <input type="text" size="70" placeholder="Meno a priezvisko"/> | <input type="text" size="70" placeholder="Meno a priezvisko"/> |
 | Úradne osvedčený podpis | Úradne osvedčený podpis |
 
