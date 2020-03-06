@@ -3,6 +3,7 @@
 **Andrej Modrý**,
 
 trvalé bydlisko **Horná  10, 912 35 Mesto nad Riekou**,
+<input type="text">
 
 rodné číslo **801203/4567**,
 
