@@ -3,10 +3,8 @@ table {
     width:100%;
 }
 </style>
-
-<div style="text-align: right"> [HTML]() / [PDF]() / [WORD]() </div>
-
 # ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
+[HTML]() / [PDF]() / [WORD]()
 
 <input type="text" size="70" placeholder="Meno a priezvisko"/>
 
