@@ -9,7 +9,7 @@ table {
 
 | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocniteľ**“) | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocnenec**“) |
 
-Splnomocniteľ týmto splnomocňuje aby Splnomocnenec zastupoval Splnomocniteľa a uskutočňoval v
+Splnomocniteľ týmto splnomocňuje Splnomocneneca, aby ho zastupoval Splnomocniteľa a uskutočňoval v
 jeho mene a na jeho účet akékoľvek právne, procesné, ako aj faktické úkony vo vzťahu k akýmkoľvek
 orgánom verejnej moci vrátane orgánovej verejnej správy, príslušným inštitúciám a právnickým osobám
 vrátane poštového podniku, banky, poskytovateľov akýchkoľvek služieb v bežnom rozsahu, vrátane 
@@ -17,7 +17,7 @@ služieb zdravotnej starostlivosti, ako aj vo vzťahu k akýmkoľvek fyzickým o
 písomnosti vrátane písomností určených do vlastných rúk, prijímal a uskutočňoval plnenia v bežnom rozsahu,
 podával podania, uzatváral a ukončoval zmluvné vzťahy v bežnom rozsahu, najmä, nie však výlučne, na:
 
--	[x] prístup do zdravotnej dokumentácie Splnomocniteľa v plnom rozsahu formou nahliadania vrátane vyhotovovania si kópií a výpiskov z nej podľa ust. § 25 ods. 1 písm. c) zákona č. č. 576/2004 Z.z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov, 
+-	<input type="checkbox" checked/> prístup do zdravotnej dokumentácie Splnomocniteľa v plnom rozsahu formou nahliadania vrátane vyhotovovania si kópií a výpiskov z nej podľa ust. § 25 ods. 1 písm. c) zákona č. č. 576/2004 Z.z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov, 
 -	[x] výpis zo zdravotnej dokumentácie Splnomocniteľa v plnom rozsahu podľa ust. 24 ods. 4 písm. e) zákona č. 576/2004 Z.z., 
 -	[x] získanie úplných informácií o zdravotnom stave Splnomocniteľa, jeho liečbe, jej rizikách, alternatívach a prognóze v rovnakom rozsahu, v akom má právo na tieto informácie sám Splnomocniteľ,    
 -	[x] získanie ďalších úplných informácií v mene Splnomocniteľa, vrátane údajov tvoriacich zákonom chránené tajomstvo (najmä bankové a daňové), údajov zo sociálneho a zdravotného poistenia, 
