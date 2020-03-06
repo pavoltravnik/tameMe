@@ -1,3 +1,9 @@
+<style>
+table {
+    width:100%;
+}
+</style>
+
 # ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
 
 [HTML]() | [PDF]() | [WORD]()
@@ -20,7 +26,7 @@ a
 
 **týmto čestne vyhlasujeme**,
 
-že od <input type="text" size="15" placeholder="Dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
+že od <input type="text" size="15" placeholder="dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
 pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č.
 40/1964 Zb. Občiansky zákonník, t.j. sme si navzájom blízkymi osobami, nakoľko ujmu, ktorú by utrpel jeden z nás, by druhý na základe týchto okolností dôvodne pociťoval ako svoju vlastnú.
 Na základe vyššie uvedeného nám ako blízkym osobám a druhom vzájomne vyplývajú všetky zákonom priznané
@@ -39,13 +45,13 @@ starostlivosti a o zmene a doplnení niektorých zákonov,
 predpisov.
 
 
-V _________________, dňa _________________ .
+V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" size="15" placeholder="dátum"/> .
 
 
 
 | ____________________________________ | ____________________________________ |
 | :------------- | -------------:|
-| Meno a priezvisko | Meno a priezvisko |
+| <input type="text" size="70" placeholder="Meno a priezvisko"/> | <input type="text" size="70" placeholder="Meno a priezvisko"/> |
 | Úradne osvedčený podpis | Úradne osvedčený podpis |
 
 
