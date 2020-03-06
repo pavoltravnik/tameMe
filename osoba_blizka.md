@@ -44,10 +44,7 @@ predpisov.
 
 
 V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" size="15" placeholder="dátum"/> .
-
-<br/><br/>
-
-| <input type="text" size="70" placeholder="Meno a priezvisko"/> Úradne osvedčený podpis | <input type="text" size="70" placeholder="Meno a priezvisko"/> Úradne osvedčený podpis |
+| <br/><br/><input type="text" size="30" placeholder="Meno a priezvisko"/> Úradne osvedčený podpis | <br/><br/><input type="text" size="30" placeholder="Meno a priezvisko"/> Úradne osvedčený podpis |
 
 Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
 
