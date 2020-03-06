@@ -2,20 +2,15 @@
 
 [HTML]() | [PDF]() | [WORD]()
 
-Meno a priezvisko: ___________________
-
-Bydlisko: ___________________
-
-Dátum narodenia: ___________________
-
+<input type="text" size=100 placeholder="Meno a priezvisko"/>
+<input type="text" size=100 placeholder="Bydlisko"/>
+<input type="text" size=100 placeholder="Dátum narodenia"/>
 
 a
 
-Meno a priezvisko: ___________________
-
-Bydlisko: ___________________
-
-Dátum narodenia: ___________________
+<input type="text" size=100 placeholder="Meno a priezvisko"/>
+<input type="text" size=100 placeholder="Bydlisko"/>
+<input type="text" size=100 placeholder="Dátum narodenia"/>
 
 
 **týmto čestne vyhlasujeme**,
