@@ -2,35 +2,25 @@
 
 [HTML]() | [PDF]() | [WORD]()
 
-Meno a priezvisko: <input type="text" id="name" name="name"/>
+<input type="text" size="70" placeholder="Meno a priezvisko"/>
 
-<input type="text" id="name" name="name"/>
+<input type="text" size="15" placeholder="Dátum narodenia"/>
 
-<input type="text" size=100 placeholder="Meno a priezvisko"/>
-
-<input type="text" size="120" height="30" />
-<input type="text" size="120" height="10" />
-<input type="text" size="120" height="20" />
-
-<input type="text" placeholder="Meno a priezvisko"/>
-
-
+<input type="text" size="100" placeholder="Bydlisko"/>
 
 
 a
 
-<input type="text" size=100 placeholder="Meno a priezvisko"/>
+<input type="text" size="70" placeholder="Meno a priezvisko"/>
 
-<input type="text" size=100 placeholder="Bydlisko"/>
+<input type="text" size="15" placeholder="Dátum narodenia"/>
 
-<input type="text" size=100 placeholder="Dátum narodenia"/>
+<input type="text" size="100" placeholder="Bydlisko"/>
 
 
 **týmto čestne vyhlasujeme**,
 
-že od ___________________ (dátum)
-
-zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
+že od <input type="text" size="15" placeholder="Dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
 pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č.
 40/1964 Zb. Občiansky zákonník, t.j. sme si navzájom blízkymi osobami, nakoľko ujmu, ktorú by utrpel jeden z nás, by druhý na základe týchto okolností dôvodne pociťoval ako svoju vlastnú.
 Na základe vyššie uvedeného nám ako blízkym osobám a druhom vzájomne vyplývajú všetky zákonom priznané
