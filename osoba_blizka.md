@@ -4,9 +4,9 @@ table {
 }
 </style>
 
-# ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
+<div style="text-align: right"> [HTML]() / [PDF]() / [WORD]() </div>
 
-[HTML]() | [PDF]() | [WORD]()
+# ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
 
 <input type="text" size="70" placeholder="Meno a priezvisko"/>
 
