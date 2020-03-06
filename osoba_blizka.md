@@ -3,13 +3,17 @@
 [HTML]() | [PDF]() | [WORD]()
 
 <input type="text" size=100 placeholder="Meno a priezvisko"/>
+
 <input type="text" size=100 placeholder="Bydlisko"/>
+
 <input type="text" size=100 placeholder="Dátum narodenia"/>
 
 a
 
 <input type="text" size=100 placeholder="Meno a priezvisko"/>
+
 <input type="text" size=100 placeholder="Bydlisko"/>
+
 <input type="text" size=100 placeholder="Dátum narodenia"/>
 
 
