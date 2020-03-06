@@ -9,13 +9,9 @@ table {
 
 | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/> | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/> |
 
-**týmto čestne vyhlasujeme**,
-
-že od <input type="text" size="15" placeholder="dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
-pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č.
-40/1964 Zb. Občiansky zákonník, t.j. sme si navzájom blízkymi osobami, nakoľko ujmu, ktorú by utrpel jeden z nás, by druhý na základe týchto okolností dôvodne pociťoval ako svoju vlastnú.
-Na základe vyššie uvedeného nám ako blízkym osobám a druhom vzájomne vyplývajú všetky zákonom priznané
-práva pre blízku osobu a druha, najmä, nie však výlučne:
+**týmto čestne vyhlasujeme**, že od <input type="text" size="15" placeholder="dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
+pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č. 40/1964 Zb. Občiansky zákonník, t.j. sme si navzájom blízkymi osobami, nakoľko ujmu, ktorú by utrpel jeden z nás, by druhý na základe týchto okolností dôvodne pociťoval ako svoju vlastnú.
+Na základe vyššie uvedeného nám ako blízkym osobám a druhom vzájomne vyplývajú všetky zákonom priznané práva pre blízku osobu a druha, najmä, nie však výlučne:
 - ako svedok máme navzájom právo odoprieť vypovedať pred súdom v zmysle ust. § 201 zákona č. 160/2015 Z.z. Civilný sporový poriadok, podľa ust. § 130 ods. 2 zákona č. 301/2005 Z.z. Trestný poriadok, ak by sme
 tomu druhému ako blízkej osobe a druhovi mohli spôsobiť nebezpečenstvo trestného stíhania, ako aj pred správnym orgánom podľa ust. § 35 ods. 3 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok),
 a taktiež máme toto právo automaticky ako druh obvineného podľa ust. § 130 ods. 1 zákona č. 301/2005,
