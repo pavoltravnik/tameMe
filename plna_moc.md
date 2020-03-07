@@ -3,8 +3,11 @@
 
 
 <input type="text" size="40" placeholder="Meno a priezvisko"/>
+
 <input type="text" size="15" placeholder="Dátum narodenia"/>
+
 <input type="text" size="40" placeholder="Adresa"/>
+
 <input type="text" size="40" placeholder="Mesto a PSČ"/>
 
 (ďalej len „**Splnomocniteľ**“)
@@ -12,8 +15,11 @@
 týmto splnomocňuje 
 
 <input type="text" size="40" placeholder="Meno a priezvisko"/>
+
 <input type="text" size="15" placeholder="Dátum narodenia"/>
+
 <input type="text" size="40" placeholder="Adresa"/>
+
 <input type="text" size="40" placeholder="Mesto a PSČ"/>
 
 (ďalej len „**Splnomocnenec**“)
