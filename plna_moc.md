@@ -1,15 +1,24 @@
-<style>
-table {
-    width:100%;
-}
-</style>
 # GENERÁLNE PLNOMOCENSTVO
 [HTML]() / [PDF]() / [WORD]()
 
 
-| <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocniteľ**“) | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocnenec**“) |
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
+<input type="text" size="15" placeholder="Dátum narodenia"/>
+<input type="text" size="40" placeholder="Adresa"/>
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
 
-Splnomocniteľ týmto splnomocňuje Splnomocneneca, aby ho zastupoval Splnomocniteľa a uskutočňoval v
+(ďalej len „**Splnomocniteľ**“)
+
+týmto splnomocňuje 
+
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
+<input type="text" size="15" placeholder="Dátum narodenia"/>
+<input type="text" size="40" placeholder="Adresa"/>
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
+
+(ďalej len „**Splnomocnenec**“)
+
+aby Splnomocnenec zastupoval Splnomocniteľa a uskutočňoval v
 jeho mene a na jeho účet akékoľvek právne, procesné, ako aj faktické úkony vo vzťahu k akýmkoľvek
 orgánom verejnej moci vrátane orgánovej verejnej správy, príslušným inštitúciám a právnickým osobám
 vrátane poštového podniku, banky, poskytovateľov akýchkoľvek služieb v bežnom rozsahu, vrátane 
@@ -38,7 +47,8 @@ Splnomocnenec nie je oprávnený substitučne splnomocniť v celom rozsahu alebo
 
 Plnomocenstvo sa udeľuje na dobu neurčitú.
 
-V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" size="15" placeholder="dátum"/> .
+V <input type="text" size="40" placeholder="mesto"/>,
+dňa <input type="text" size="15" placeholder="dátum"/>.
 
 | <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis | <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis |
 
